@@ -1,55 +1,69 @@
-About Me
+👋 Introduction
 
-Name: Ayush Lakhani
+👨‍💻 Ayush Lakhani
 
-Education: BCA Graduate
+🎓 BCA Graduate
 
-Role: Aspiring MERN Stack Developer
+💼 Aspiring MERN Stack Developer
 
-Focus: Web Development + Real-World Projects
+🎯 Actively seeking Software Development Internship
 
-Goal: Software Development Internship
+🌍 India
 
-🧠 What I’m Currently Doing
+🧭 Professional Summary
 
-Learning MERN Stack (MongoDB, Express, React, Node.js)
+Strong foundation in Full-Stack Web Development
 
-Building production-level projects
+Focused on real-world, scalable projects
 
-Improving DSA using Java
+Consistent learner with hands-on implementation mindset
 
-Preparing for technical interviews
+Comfortable with frontend, backend, and databases
 
-🛠️ Tech Stack
+🧠 Current Focus
+
+📌 Mastering MERN Stack
+
+📌 Building industry-style projects
+
+📌 Practicing DSA using Java
+
+📌 Preparing for technical & coding interviews
+
+🛠️ Technical Skills
 
 Frontend
 
-HTML5
-
-CSS3
-
-JavaScript
-
-React.js
+HTML5 | CSS3 | JavaScript | React.js
 
 Backend
 
-Node.js
-
-Express.js
+Node.js | Express.js
 
 Database
 
-MongoDB
+MongoDB | MySQL
 
-MySQL
+Tools & Platforms
 
-Tools
+Git | GitHub | VS Code | Postman
 
-Git
+🚀 Projects Showcase
 
-GitHub
+Hostel Management System
 
-VS Code
+Tech: HTML, CSS, JavaScript, PHP
 
-Postman
+Highlights: Admin panel, student records, room management
+
+Grocery Management System
+
+Tech: VB.NET
+
+Highlights: Inventory control, billing, reporting
+
+Uber-Like Application (Ongoing)
+
+Tech: MERN Stack
+
+Highlights: Authentication, booking workflow, backend APIs

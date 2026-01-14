@@ -1,16 +1,55 @@
-## Hi there 👋
+About Me
 
-<!--
-**ayush-lakhani/ayush-lakhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Ayush Lakhani
 
-Here are some ideas to get you started:
+Education: BCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Role: Aspiring MERN Stack Developer
+
+Focus: Web Development + Real-World Projects
+
+Goal: Software Development Internship
+
+🧠 What I’m Currently Doing
+
+Learning MERN Stack (MongoDB, Express, React, Node.js)
+
+Building production-level projects
+
+Improving DSA using Java
+
+Preparing for technical interviews
+
+🛠️ Tech Stack
+
+Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React.js
+
+Backend
+
+Node.js
+
+Express.js
+
+Database
+
+MongoDB
+
+MySQL
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Postman

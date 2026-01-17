@@ -1,116 +1,113 @@
-🧑‍💻 Profile Header
-<h1 align="center">Hi 👋, I'm Ayush Lakhani</h1>
-<h3 align="center">Aspiring MERN Stack Developer | Software Development Intern</h3>
+<div align="center">
+👋 Hi, I'm Ayush Lakhani
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+MERN Stack Developer | Software Development Intern Aspirant
 
-🧭 About Me
+🚀 Building real-world web applications
+🎯 Focused on clean code & scalability
+
+</div>
+⚡ About Me
 
 🎓 BCA Graduate
 
-💻 Focused on Full-Stack Web Development
+💻 Passionate about Full-Stack Web Development
 
-🚀 Passionate about scalable & real-world applications
+🧠 Strong in fundamentals & practical implementation
 
-🎯 Actively seeking internship opportunities
+📍 Based in India
 
-🌍 Based in India
+🔍 Actively seeking Software Development Internship
 
 🧠 Current Focus
 
-🔹 MERN Stack mastery
+🔥 MERN Stack mastery
 
-🔹 Backend APIs & authentication
+🔥 Industry-grade project development
 
-🔹 DSA practice in Java
+🔥 Data Structures & Algorithms (Java)
 
-🔹 Industry-level project building
+🔥 Backend architecture & API design
 
 🛠️ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
-</p>
+<div align="center">
 
+
+
+
+
+
+
+
+
+
+
+
+</div>
 🚀 Featured Projects
 
 Hostel Management System
 
 HTML | CSS | JavaScript | PHP
 
-Admin dashboard, student & room management
+Admin dashboard, student management, room allocation
 
 Grocery Management System
 
 VB.NET
 
-Inventory, billing & reports
+Inventory, billing, reports
 
 Uber-Like App (In Progress)
 
 MERN Stack
 
-Authentication, booking flow, REST APIs
+Authentication, booking flow, scalable APIs
 
 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+⚠️ Replace YOUR_USERNAME
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-🧩 Skill Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Backend-0A0A0A?style=for-the-badge&logo=node.js&logoColor=3C873A" />
-  <img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=4DB33D" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-🧠 Strength Highlights
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-Clean, maintainable code
+🧩 Professional Strengths
 
-Strong problem-solving mindset
+Clean & maintainable code
 
-Fast learner with growth focus
+Problem-solving mindset
 
-Real-world project experience
+Strong debugging skills
 
-Team-friendly & disciplined
+Rapid learner
 
-📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-</p>
+Team-oriented development
 
-📌 Profile Power Tips
+📫 Let’s Connect
+<div align="center">
 
-⭐ Pin your top 3 repositories
 
-⭐ Add README to each project
 
-⭐ Keep commits consistent
 
-⭐ Avoid clutter, keep it premium
+</div>
+🏆 Profile Optimization (Do This)
 
-⭐ Update quarterly
+⭐ Pin top 3 strongest repositories
 
-🏁 Closing Statement
+⭐ Add README to every major project
 
-Open to internships & collaborations
+⭐ Write meaningful commit messages
 
-Focused on quality over quantity
+⭐ Maintain daily/weekly activity
 
-Building for impact, not just output
+⭐ Keep README updated quarterly
+
+<div align="center">
+🚀 Open to internships, collaborations & learning opportunities
+
+“Consistency builds mastery.”
+
+</div>
